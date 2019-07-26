@@ -96,6 +96,7 @@ Model View ViewModel
 ### Posts
 
 - [Clean Swift iOS Architecture for Fixing Massive View Controller](http://clean-swift.com/clean-swift-ios-architecture/)
+- [Part 1: What is clean swift(VIP), a brief overview](https://medium.com/@mlukacs_42903/part-1-what-is-clean-swift-vip-a-brief-overview-a43d4d66e664)
 
 ### Repos
 
